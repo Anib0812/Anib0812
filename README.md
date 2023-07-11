@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-I'm a passionate student in the world of software development! and a problem-solver. 
+I'm a passionate student and a problem-solver in this world of software development! 
 I believe technology's power can positively impact the world, and I'm constantly exploring new ideas and learning new technologies to expand my skills.
 
 On my GitHub, you'll find a collection of my personal projects
